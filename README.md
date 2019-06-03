@@ -60,7 +60,7 @@
 ### Tools
 - [Apache Airflow](https://airflow.apache.org/) is a platform to programmatically author, schedule and monitor workflows in Python
 - [Apache Spark](https://spark.apache.org/) is a unified analytics engine for large-scale data processing
-- [Apache Kafka](https://kafka.apache.org/) is a distribyted streaming platform
+- [Apache Kafka](https://kafka.apache.org/) is a distributed streaming platform
 - [Luigi](https://luigi.readthedocs.io) is a Python package that helps you build complex pipelines of batch jobs. 
 
 ### Cloud Platforms
