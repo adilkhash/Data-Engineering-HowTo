@@ -73,3 +73,8 @@
 ### Other
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 - [Insight Data Engineering Ecosystem Map](http://xyz.insightdataengineering.com/blog/pipeline_map/)
+
+### Newsletters & Digests
+- [Data Eng Weekly](https://dataengweekly.com/) - Your weekly Data Engineering news
+- [SF Data Weekly](http://weekly.sfdata.io) - A weekly email of useful links for people interested in building data platforms
+- [Data Elixir](https://dataelixir.com/) - Data Elixir is an email newsletter that keeps you on top of the tools and trends in Data Science.
