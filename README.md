@@ -70,6 +70,7 @@
 - [Microsoft Azure](https://azure.microsoft.com)
 - [Yandex Cloud](https://cloud.yandex.ru/)
 - [DigitalOcean](https://m.do.co/c/e92056c9e79b)
+- [IBM Cloud](https://www.ibm.com/cloud/)
 
 ### Other
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
