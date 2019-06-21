@@ -48,6 +48,7 @@
 - [Introduction to Algorithms](https://www.amazon.com/gp/product/0262033844/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262033844&linkCode=as2&tag=adilkhash-20&linkId=74742875db503b1a899ca35159749067) by Thomas Cormen
 - [The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling](https://www.amazon.com/gp/product/1118530802/ref=as_li_tl?ie=UTF8&tag=adilkhash-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1118530802&linkId=6ca865e8e9817dca57718bdbe5e52cd5)
 - [Star Schema The Complete Reference](https://www.amazon.com/gp/product/0071744320/ref=as_li_tl?ie=UTF8&tag=adilkhash-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0071744320&linkId=2abf9ef1d327071f74f59c3659ed6223)
+- [The Data Engineering Cookbook](https://github.com/andkret/Cookbook/) by Andreas Kretz
 
 ### Courses
 - [Big Data for Data Engineers Specialization](https://www.coursera.org/specializations/big-data-engineering) by Yandex
