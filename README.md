@@ -46,6 +46,7 @@
 ### Books
 - [Design Data-Intensive Applications](https://www.amazon.com/gp/product/1449373321/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449373321&linkCode=as2&tag=adilkhash-20&linkId=e7e0e096aa5761066245eb90965ac849) by Martin Kleppmann
 - [Introduction to Algorithms](https://www.amazon.com/gp/product/0262033844/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262033844&linkCode=as2&tag=adilkhash-20&linkId=74742875db503b1a899ca35159749067) by Thomas Cormen
+- [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) by Aditya Bhargava
 - [The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling](https://www.amazon.com/gp/product/1118530802/ref=as_li_tl?ie=UTF8&tag=adilkhash-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1118530802&linkId=6ca865e8e9817dca57718bdbe5e52cd5)
 - [Star Schema The Complete Reference](https://www.amazon.com/gp/product/0071744320/ref=as_li_tl?ie=UTF8&tag=adilkhash-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0071744320&linkId=2abf9ef1d327071f74f59c3659ed6223)
 - [The Data Engineering Cookbook](https://github.com/andkret/Cookbook/) by Andreas Kretz
