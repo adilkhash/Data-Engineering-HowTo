@@ -11,6 +11,12 @@
 - [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 - [How to become a Data Engineer (in Russian)](https://khashtamov.com/ru/data-engineer/)
 
+### Talks
+- [Data Engineering Principles - Build frameworks not pipelines](https://www.youtube.com/watch?v=pzfgbSfzhXg) by Gatis Seja
+- [Functional Data Engineering - A Set of Best Practices](https://www.youtube.com/watch?v=4Spo2QRTz1k) by Maxime Beauchemin
+- [Advanced Data Engineering Patterns with Apache Airflow](https://www.youtube.com/watch?v=Fvu2oFyFCT0) by Maxime Beauchemin
+- [Creating a Data Engineering Culture](https://www.youtube.com/watch?v=VkeleGIUSM8) by Jesse Anderson
+
 ### Algorithms & Data Structures
 - [Algorithmic Toolbox](https://stepik.org/course/217) in Russian
 - [Data Structures](https://stepik.org/course/1547) in Russian
