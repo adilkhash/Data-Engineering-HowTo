@@ -72,6 +72,8 @@
 - [Apache Spark](https://spark.apache.org/) is a unified analytics engine for large-scale data processing
 - [Apache Kafka](https://kafka.apache.org/) is a distributed streaming platform
 - [Luigi](https://luigi.readthedocs.io) is a Python package that helps you build complex pipelines of batch jobs. 
+- [Dagster.io](https://dagster.readthedocs.io/en/stable/index.html) is a system for building modern data applications.
+- [Prefect](https://prefect.io) includes everything you need to create and run data applications.
 
 ### Cloud Platforms
 - [Amazon Web Services](https://aws.amazon.com/)
