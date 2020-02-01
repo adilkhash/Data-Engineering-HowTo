@@ -75,6 +75,7 @@
 - [Luigi](https://luigi.readthedocs.io) is a Python package that helps you build complex pipelines of batch jobs. 
 - [Dagster.io](https://dagster.readthedocs.io/en/stable/index.html) is a system for building modern data applications.
 - [Prefect](https://prefect.io) includes everything you need to create and run data applications.
+- [Metaflow](https://github.com/Netflix/metaflow) build and manage real-life data science projects with ease
 
 ### Cloud Platforms
 - [Amazon Web Services](https://aws.amazon.com/)
@@ -84,6 +85,10 @@
 - [DigitalOcean](https://m.do.co/c/e92056c9e79b)
 - [IBM Cloud](https://www.ibm.com/cloud/)
 
+### Communities
+- [data Engineering](https://t.me/dataeng_chat) - telegram chat about data engineering
+- [Data Engineering Subreddit](https://www.reddit.com/r/dataengineering/) - subreddit about data engineering
+
 ### Data Engineering Jobs
 - [Remotelist Data Jobs](http://bit.ly/2pZL8Ix)
 
@@ -92,6 +97,7 @@
 - [Insight Data Engineering Ecosystem Map](http://xyz.insightdataengineering.com/blog/pipeline_map/)
 
 ### Newsletters & Digests
+- [DataEng Telegram channel](https://t.me/dataeng) - Telegram channel about data engineering (rus/eng)
 - [Data Eng Weekly](https://dataengweekly.com/) - Your weekly Data Engineering news
 - [SF Data Weekly](http://weekly.sfdata.io) - A weekly email of useful links for people interested in building data platforms
 - [Data Elixir](https://dataelixir.com/) - Data Elixir is an email newsletter that keeps you on top of the tools and trends in Data Science.
