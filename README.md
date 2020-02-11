@@ -90,7 +90,7 @@
 - [Data Engineering Subreddit](https://www.reddit.com/r/dataengineering/) - subreddit about data engineering
 
 ### Data Engineering Jobs
-- [Remotelist Data Jobs](http://bit.ly/2pZL8Ix)
+- [Remotelist Data Jobs](http://bit.ly/2vk0R86)
 
 ### Other
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
