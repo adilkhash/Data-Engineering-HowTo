@@ -34,6 +34,7 @@
 - [Fluent Python](https://www.amazon.com/gp/product/1491946008/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491946008&linkCode=as2&tag=adilkhash-20&linkId=8a663e966770c24874e323133cc7a005) intermediate level book about Python
 - [Intro to Scala](https://stepik.org/course/16243) in Russian on Stepik by Tinkoff Bank
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/) by Kenneth Reitz & Tanya Schlusser
+- [Learn Python 3 The Hard Way](https://learnpythonthehardway.org/python3/) by Zed A. Shaw
 
 ### Databases
 - [Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x) by Carnegie Mellon University
