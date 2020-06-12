@@ -60,6 +60,7 @@
 - [Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.com/gp/product/1492040347/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1492040347&linkCode=as2&tag=adilkhash-20&linkId=4a23dead1aeb11fd4debffb36487aa14)
 - [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.amazon.com/gp/product/1491983876/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491983876&linkCode=as2&tag=adilkhash-20&linkId=9869047f1ac02b597d8a0e67fd29ad68)
 - [A Philosophy of Software Design](https://www.amazon.com/gp/product/1732102201/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1732102201&linkCode=as2&tag=adilkhash-20&linkId=b020fab52fa5f1fed2191ea12e824468)
+- [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems) by Josh Fischer & Ning Wang
 
 ### Courses
 - [Big Data for Data Engineers Specialization](https://www.coursera.org/specializations/big-data-engineering) by Yandex
