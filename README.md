@@ -105,3 +105,4 @@
 - [Data Eng Weekly](https://dataengweekly.com/) - Your weekly Data Engineering news
 - [SF Data Weekly](http://weekly.sfdata.io) - A weekly email of useful links for people interested in building data platforms
 - [Data Elixir](https://dataelixir.com/) - Data Elixir is an email newsletter that keeps you on top of the tools and trends in Data Science.
+- [Data Governance, Privacy and Security](https://dbadmin.news/) - DbAdmin News is a news letter on the technology behind Data Governance, Security and Privacy
