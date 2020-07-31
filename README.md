@@ -50,6 +50,7 @@
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/) by Mikito Takada
 - [Distributed Systems](https://www.amazon.com/gp/product/1543057381/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1543057381&linkCode=as2&tag=adilkhash-20&linkId=721aedeb23c313bc46a92c134c5baafa) by Maarten van Steen & Andrew S. Tanenbaum
 - [CS 436: Distributed Computer Systems](https://www.youtube.com/watch?v=w8KFPWkK0bI&list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N&index=2) by University of Waterloo 
+- [MIT 6.824: Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) by Robert Morris from MIT
 - [Distributed consensus reading list](https://github.com/heidi-ann/distributed-consensus-reading-list) maintained by Heidi Howard from University of Cambridge
 
 ### Books
@@ -61,6 +62,7 @@
 - [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.amazon.com/gp/product/1491983876/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491983876&linkCode=as2&tag=adilkhash-20&linkId=9869047f1ac02b597d8a0e67fd29ad68)
 - [A Philosophy of Software Design](https://www.amazon.com/gp/product/1732102201/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1732102201&linkCode=as2&tag=adilkhash-20&linkId=b020fab52fa5f1fed2191ea12e824468)
 - [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems) by Josh Fischer & Ning Wang
+- [Guide to High Performance Distributed Computing](https://www.amazon.com/Guide-High-Performance-Distributed-Computing/dp/3319134965) by K.G. Srinivasa & Anil Kumar Muppalla
 
 ### Courses
 - [Big Data for Data Engineers Specialization](https://www.coursera.org/specializations/big-data-engineering) by Yandex
