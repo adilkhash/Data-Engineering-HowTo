@@ -49,6 +49,7 @@
 ### Distributed Systems
 - [Distributed systems for fun and profit](http://book.mixu.net/distsys/) by Mikito Takada
 - [Distributed Systems](https://www.amazon.com/gp/product/1543057381/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1543057381&linkCode=as2&tag=adilkhash-20&linkId=721aedeb23c313bc46a92c134c5baafa) by Maarten van Steen & Andrew S. Tanenbaum
+- [CSE138: Distributed Systems](https://www.youtube.com/playlist?list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31) by Lindsey Kuper 
 - [CS 436: Distributed Computer Systems](https://www.youtube.com/watch?v=w8KFPWkK0bI&list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N&index=2) by University of Waterloo 
 - [MIT 6.824: Distributed Systems](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB) by Robert Morris from MIT
 - [Distributed consensus reading list](https://github.com/heidi-ann/distributed-consensus-reading-list) maintained by Heidi Howard from University of Cambridge
