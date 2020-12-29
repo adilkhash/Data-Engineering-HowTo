@@ -83,6 +83,7 @@
 - [Dagster.io](https://docs.dagster.io) is a system for building modern data applications.
 - [Prefect](https://prefect.io) includes everything you need to create and run data applications.
 - [Metaflow](https://github.com/Netflix/metaflow) build and manage real-life data science projects with ease
+- [lakeFS](https://github.com/treeverse/lakeFS) build repeatable, atomic and versioned data lake operations – from complex ETL jobs to data science and analytics.
 
 ### Cloud Platforms
 - [Amazon Web Services](https://aws.amazon.com/)
