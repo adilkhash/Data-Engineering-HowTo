@@ -10,7 +10,7 @@
   - [Part III](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0?source=---------4------------------)
 - [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 - [How to become a Data Engineer (in Russian)](https://khashtamov.com/ru/data-engineer/)
-- [Introduction to Apache Airflow (in Russian)](https://khashtamov.com/ru/apache-airflow-introduction/?utm_source=github&utm_medium=dataeng-repository&utm_campaign=dataeng)
+- Introduction to Apache Airflow [Ru](https://khashtamov.com/ru/apache-airflow-introduction/?utm_source=github&utm_medium=dataeng-repository&utm_campaign=dataeng), [En](https://khashtamov.com/en/introduction-to-apache-airflow/)
 
 ### Talks
 - [Data Engineering Principles - Build frameworks not pipelines](https://www.youtube.com/watch?v=pzfgbSfzhXg) by Gatis Seja
@@ -28,6 +28,7 @@
 - [Comprehensive SQL Tutorial](https://mode.com/sql-tutorial/introduction-to-sql/) by Mode Analytics
 - [SQL Practice](https://leetcode.com/problemset/database/) on Leetcode
 - [Modern SQL](https://modern-sql.com/) a website about modern SQL syntax
+- [Introduction to Window Functions](https://khashtamov.com/en/sql-window-functions/)
 
 ### Programming
 - [Scala School](https://twitter.github.io/scala_school/) by Twitter
