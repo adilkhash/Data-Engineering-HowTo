@@ -28,7 +28,7 @@
 - [Comprehensive SQL Tutorial](https://mode.com/sql-tutorial/introduction-to-sql/) by Mode Analytics
 - [SQL Practice](https://leetcode.com/problemset/database/) on Leetcode
 - [Modern SQL](https://modern-sql.com/) a website about modern SQL syntax
-- [Introduction to Window Functions](https://khashtamov.com/en/sql-window-functions/)
+- Introduction to Window Functions [En](https://khashtamov.com/en/sql-window-functions/), [Ru](https://khashtamov.com/ru/window-functions-sql/)
 
 ### Programming
 - [Scala School](https://twitter.github.io/scala_school/) by Twitter
