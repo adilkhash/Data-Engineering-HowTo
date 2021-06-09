@@ -11,6 +11,7 @@
 - [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 - How to become a Data Engineer [Ru](https://khashtamov.com/ru/data-engineer/), [En](https://khashtamov.com/en/how-to-become-a-data-engineer/)
 - Introduction to Apache Airflow [Ru](https://khashtamov.com/ru/apache-airflow-introduction/?utm_source=github&utm_medium=dataeng-repository&utm_campaign=dataeng), [En](https://khashtamov.com/en/introduction-to-apache-airflow/)
+- [The Top 10 Essential Data Engineer Skills for 2021](https://www.webagesolutions.com/top-10-essential-data-engineer-skills-for-2021)
 
 ### Talks
 - [Data Engineering Principles - Build frameworks not pipelines](https://www.youtube.com/watch?v=pzfgbSfzhXg) by Gatis Seja
@@ -71,6 +72,8 @@
 - [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) by Google
 - [Data Engineer Nanodegree](https://udacity.com/course/data-engineer-nanodegree--nd027) by Udacity
 - [Data Engineering with Python](https://www.datacamp.com/tracks/data-engineer-with-python) by DataCamp
+- [Data Engineering Bootcamp Training with Python and PySpark](https://www.webagesolutions.com/courses/wa3020-data-engineering-bootcamp-training-using-python-and-pyspark) by Web Age Solutions
+
 
 ### Blogs
 - [Martin Kleppmann](https://martin.kleppmann.com/) author of Designing Data-Intensive Application
