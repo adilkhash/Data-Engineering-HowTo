@@ -103,7 +103,6 @@
 
 ### Other
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
-- [Insight Data Engineering Ecosystem Map](http://xyz.insightdataengineering.com/blog/pipeline_map/)
 
 ### Newsletters & Digests
 - [DataEng Telegram channel](https://t.me/dataeng) - Telegram channel about data engineering (rus/eng)
