@@ -65,6 +65,8 @@
 - [A Philosophy of Software Design](https://www.amazon.com/gp/product/1732102201/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1732102201&linkCode=as2&tag=adilkhash-20&linkId=b020fab52fa5f1fed2191ea12e824468)
 - [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems) by Josh Fischer & Ning Wang
 - [Guide to High Performance Distributed Computing](https://www.amazon.com/Guide-High-Performance-Distributed-Computing/dp/3319134965) by K.G. Srinivasa & Anil Kumar Muppalla
+- [Data Pipelines with Apache Airflow](https://www.manning.com/books/data-pipelines-with-apache-airflow) by Bas P. Harenslak and Julian Rutger de Ruiter
+
 
 ### Courses
 - [Big Data for Data Engineers Specialization](https://www.coursera.org/specializations/big-data-engineering) by Yandex
