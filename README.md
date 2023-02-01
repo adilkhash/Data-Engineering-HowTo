@@ -67,6 +67,7 @@
 - [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems) by Josh Fischer & Ning Wang
 - [Guide to High Performance Distributed Computing](https://www.amazon.com/Guide-High-Performance-Distributed-Computing/dp/3319134965) by K.G. Srinivasa & Anil Kumar Muppalla
 - [Data Pipelines with Apache Airflow](https://www.manning.com/books/data-pipelines-with-apache-airflow) by Bas P. Harenslak and Julian Rutger de Ruiter
+- [Optimization Algorithms](https://www.manning.com/books/optimization-algorithms) by Alaa Khamis
 
 
 ### Courses
