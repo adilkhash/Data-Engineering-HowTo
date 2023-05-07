@@ -70,8 +70,6 @@
 
 
 ### Courses
-<!-- "https://www.coursera.org/specializations/big-data-engineering" this link has been broken-->
-- [Big Data for Data Engineers Specialization](https://www.coursera.org/specializations/big-data-engineering) by Yandex
 - [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) by Google
 - [Data Engineer Nanodegree](https://udacity.com/course/data-engineer-nanodegree--nd027) by Udacity
 - [Data Engineering with Python](https://www.datacamp.com/tracks/data-engineer-with-python) by DataCamp
