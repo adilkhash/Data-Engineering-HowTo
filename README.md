@@ -11,6 +11,7 @@
 - [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 - How to become a Data Engineer [Ru](https://khashtamov.com/ru/data-engineer/), [En](https://khashtamov.com/en/how-to-become-a-data-engineer/)
 - Introduction to Apache Airflow [Ru](https://khashtamov.com/ru/apache-airflow-introduction/?utm_source=github&utm_medium=dataeng-repository&utm_campaign=dataeng), [En](https://khashtamov.com/en/introduction-to-apache-airflow/)
+- [Apache Airflow Alternatives](https://airflowmastery.com/apache-airflow-alternatives/)
 
 ### Talks
 - [Data Engineering Principles - Build frameworks not pipelines](https://www.youtube.com/watch?v=pzfgbSfzhXg) by Gatis Seja
@@ -68,7 +69,6 @@
 - [Grokking Streaming Systems](https://www.manning.com/books/grokking-streaming-systems) by Josh Fischer & Ning Wang
 - [Guide to High Performance Distributed Computing](https://www.amazon.com/Guide-High-Performance-Distributed-Computing/dp/3319134965) by K.G. Srinivasa & Anil Kumar Muppalla
 - [Data Pipelines with Apache Airflow](https://www.manning.com/books/data-pipelines-with-apache-airflow) by Bas P. Harenslak and Julian Rutger de Ruiter
-
 
 ### Courses
 - [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) by Google
