@@ -102,7 +102,7 @@
 - [Data Engineering Subreddit](https://www.reddit.com/r/dataengineering/) - subreddit about data engineering
 
 ### Data Engineering Jobs
-- [Data Engineering jobs](http://bit.ly/2vk0R86)
+- [Data Engineering jobs](https://remotelist.ru/category/data-engineering/)
 
 ### Other
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
