@@ -74,6 +74,7 @@
 - [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) by Google
 - [Data Engineer Nanodegree](https://udacity.com/course/data-engineer-nanodegree--nd027) by Udacity
 - [Data Engineering with Python](https://www.datacamp.com/tracks/data-engineer-with-python) by DataCamp
+- [Data Science and Machine Learning](https://www.scaler.com/data-science-course/) by Scaler
 
 ### Blogs
 - [Martin Kleppmann](https://martin.kleppmann.com/) author of Designing Data-Intensive Application
