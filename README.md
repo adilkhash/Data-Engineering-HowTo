@@ -12,6 +12,7 @@
 - How to become a Data Engineer [Ru](https://khashtamov.com/ru/data-engineer/), [En](https://khashtamov.com/en/how-to-become-a-data-engineer/)
 - Introduction to Apache Airflow [Ru](https://khashtamov.com/ru/apache-airflow-introduction/?utm_source=github&utm_medium=dataeng-repository&utm_campaign=dataeng), [En](https://khashtamov.com/en/introduction-to-apache-airflow/)
 - [Apache Airflow Alternatives](https://airflowmastery.com/apache-airflow-alternatives/)
+- [Ace Your Data Engineering Interview](https://www.tryexponent.com/blog/data-engineering-interview)
 
 ### Talks
 - [Data Engineering Principles - Build frameworks not pipelines](https://www.youtube.com/watch?v=pzfgbSfzhXg) by Gatis Seja
@@ -19,6 +20,7 @@
 - [Advanced Data Engineering Patterns with Apache Airflow](https://www.youtube.com/watch?v=Fvu2oFyFCT0) by Maxime Beauchemin
 - [Creating a Data Engineering Culture](https://www.youtube.com/watch?v=VkeleGIUSM8) by Jesse Anderson
 - [Streaming 101: Hello Streaming](https://www.youtube.com/watch?v=A1YC_AC0qf8) by Josh Fischer
+- [Designing a Realtime Data Pipeline (Mock Interview)](https://www.youtube.com/watch?v=53tcAZ6Qda8) by Exponent
 
 ### Algorithms & Data Structures
 - [Algorithmic Toolbox](https://stepik.org/course/217) in Russian
@@ -74,6 +76,7 @@
 - [Data Engineering on Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-data-machine-learning) by Google
 - [Data Engineer Nanodegree](https://udacity.com/course/data-engineer-nanodegree--nd027) by Udacity
 - [Data Engineering with Python](https://www.datacamp.com/tracks/data-engineer-with-python) by DataCamp
+- [Data Engineering Interviews](https://www.tryexponent.com/courses/data-engineering) by Exponent
 
 ### Blogs
 - [Martin Kleppmann](https://martin.kleppmann.com/) author of Designing Data-Intensive Application
