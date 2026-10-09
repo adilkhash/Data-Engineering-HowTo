@@ -102,7 +102,7 @@
 - [Data Engineering Subreddit](https://www.reddit.com/r/dataengineering/) - subreddit about data engineering
 
 ### Data Engineering Jobs
-- [Data Engineering jobs](https://remotelist.ru/category/data-engineering/)
+- [Data Engineering jobs](https://getdataengineeringjobs.com/)
 
 ### Other
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
@@ -110,6 +110,4 @@
 ### Newsletters & Digests
 - [DataEng Telegram channel](https://t.me/dataeng) - Telegram channel about data engineering (rus/eng)
 - [Data Engineering Weekly](https://www.dataengineeringweekly.com/)
-- [SF Data Weekly](http://weekly.sfdata.io) - A weekly email of useful links for people interested in building data platforms
 - [Data Elixir](https://dataelixir.com/) - Data Elixir is an email newsletter that keeps you on top of the tools and trends in Data Science.
-- [Data Governance, Privacy and Security](https://dbadmin.news/) - DbAdmin News is a news letter on the technology behind Data Governance, Security and Privacy
