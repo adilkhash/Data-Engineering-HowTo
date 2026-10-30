@@ -1,5 +1,7 @@
 # How To Become a Data Engineer
 
+> 💼 **If you want to land a data engineering role, visit [getdataengineeringjobs.com](https://getdataengineeringjobs.com/?utm_source=github&utm_medium=dataeng-repository&utm_campaign=readme-cta).** It lists only data engineering jobs, collected from company career pages and job boards, which you can filter by tech stack, salary, remote policy and visa sponsorship.
+
 ### Useful articles
 - [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
 - [The Rise of Data Engineer](https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603)
