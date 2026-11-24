@@ -105,6 +105,7 @@
 
 ### Data Engineering Jobs
 - [Data Engineering jobs](https://getdataengineeringjobs.com/)
+- [EuroJobs.ai](https://eurojobs.ai) - 28,000+ IT jobs across Europe aggregated hourly from employers' own career pages (Greenhouse, Lever, Ashby, Workable). Includes data engineering roles. Filter by visa sponsorship, remote, country and salary.
 
 ### Other
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
